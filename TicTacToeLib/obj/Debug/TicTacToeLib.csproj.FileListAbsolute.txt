@@ -1,0 +1,6 @@
+D:\test\.NET\TicTacToeApp\TicTacToeLib\obj\Debug\TicTacToeLib.csproj.AssemblyReference.cache
+D:\test\.NET\TicTacToeApp\TicTacToeLib\obj\Debug\TicTacToeLib.csproj.CoreCompileInputs.cache
+D:\test\.NET\TicTacToeApp\TicTacToeLib\bin\Debug\TicTacToeLib.dll
+D:\test\.NET\TicTacToeApp\TicTacToeLib\bin\Debug\TicTacToeLib.pdb
+D:\test\.NET\TicTacToeApp\TicTacToeLib\obj\Debug\TicTacToeLib.dll
+D:\test\.NET\TicTacToeApp\TicTacToeLib\obj\Debug\TicTacToeLib.pdb
